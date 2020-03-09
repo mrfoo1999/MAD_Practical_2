@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MAD_Practical_2</string>
     <string name="name">Foo Wei Sheng</string>
+    <string name="yellow_star">Yellow_star</string>
 </resources>
